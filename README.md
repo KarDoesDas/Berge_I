@@ -1,3 +1,3 @@
 # Berge_I
-Discovery
+Discovery Maven
 ingwald
